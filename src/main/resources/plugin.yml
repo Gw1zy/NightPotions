@@ -1,0 +1,12 @@
+name: NightPotions
+version: '${project.version}'
+main: nightpotions.nightpotions.Plugin
+api-version: 1.16
+authors: [ Dr1yest ]
+
+commands:
+  nightpotion:
+    description: /np give <name> <potionID>
+    aliases:
+      - np
+    usage: /np give <name> <potionID>
