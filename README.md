@@ -2,8 +2,10 @@
 
 to give potion use /np give <PlayerName> <PotionID>
 
+Aviable list of PotionID's
+1. tnt
 
-To Do List:
+<b>To Do List:</b>
 1. add new potions
 2. add plugin config
 3. add tab completor
